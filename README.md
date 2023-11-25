@@ -9,7 +9,7 @@ I'm currently developing with JavaScript, Typescricript, React and Next.js.
 <h3>Tech stack & other skills</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,css,html,figma,tailwind,postgresql,jest&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nextjs,nodejs,react,css,html,figma,tailwind,postgresql,jest&theme=light)](https://skillicons.dev)
 
 
 
