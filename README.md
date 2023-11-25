@@ -1,8 +1,8 @@
 <h1 align="left">Greetings 👋,  I'm Valerie Sabando</h1>
 
-I'm a <b>full stack developer</b> based in Vienna, Austria with a background in customer service. Having a keen eye for detail and a commitment to delivering smooth user experiences, I'm looking to enhance the users journey.
+I'm a <b>full stack developer</b> based in Vienna, Austria with a background in customer service. Having a keen eye for detail,I'm commitment to delivering smooth user experience.
 
-I'm enthusiastic about exploring GraphQL and soaking up as much as I can in this interesting field.
+I'm enthusiastic about exploring GraphQL and soaking up as much as I can.
 
 I'm currently developing with JavaScript, Typescricript, React and Next.js. 
 
