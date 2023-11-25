@@ -19,7 +19,7 @@ Whether you're exploring potential projects or just curious about my work, I'm e
 <br/>
 <p>
 
-<a href="linkedin.com/in/valerie-sabando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valeriesabando" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/valerie-sabando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valeriesabando" height="30" width="40" /></a>
 </p>
 
 Appreciate your visit to my profile! 🌟
