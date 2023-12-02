@@ -4,7 +4,7 @@ I'm a <b>full stack developer</b> based in Vienna, Austria with a background in 
 
 I'm enthusiastic about exploring GraphQL and soaking up as much as I can.
 
-I'm currently developing with JavaScript, Typescricript, React and Next.js. 
+I'm currently developing with JavaScript, TypeScript, React and Next.js. 
 
 <h3>Tech stack & other skills</h3>
 
